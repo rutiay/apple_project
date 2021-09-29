@@ -113,12 +113,12 @@
 
 @media screen and (max-width:1025px) {
     #cartTable{
-        width: 65%;
+        width: 60%;
     }
 
     #orderSummary{
         top: 38%;
-        left: 69%;
+        left: 62%;
     }
     
     #checkout{
